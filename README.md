@@ -56,3 +56,8 @@
 ---
 
 🔥 *"Striving for continuous growth and innovation in digital health and data science."*
+
+---
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinyunKim&count_bg=%230084ff&title_bg=%2300458c&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+</p>
