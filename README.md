@@ -5,9 +5,13 @@
 
 ## 🌱 About Me
 - 🔬 Digital Health Researcher with a background in healthcare and data science  
-- 📊 Interested in **AI-driven Multiomics Analysis**, **Causal Inference Modeling**, and **Time-Series Forecasting**  
-- 💻 Skilled in **Python, R, SQL** for data exploration and modeling  
-- 📚 Passionate about leveraging data to drive meaningful healthcare innovations  
+- 🧬 Experienced in **Whole Genome Sequencing (WGS)** analysis for rare disease cohorts  
+- 🧪 Applying **Multi-omics integration** for biomarker discovery and patient stratification  
+- 🧠 Using **Causal inference models** to evaluate treatment effects in clinical data  
+- 📈 Performing **Polygenic Risk Scoring (PRS)** with large-scale population genetics datasets  
+- 🤖 Exploring **AI-based clinical prediction**, **time-series forecasting**, and **decision modeling**  
+- 💻 Proficient in **Python** and **R** for data processing, modeling, and visualization  
+- ❤️ Passionate about bridging **biomedical data** and **machine learning** to improve patient outcomes  
 
 <br><br>
 
@@ -16,7 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🔹 Data Science & Machine Learning
@@ -34,9 +37,20 @@
 ### 🔹 Genomics & Statistical Genetics
 <p>
   <img src="https://img.shields.io/badge/PLINK-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GATK-5272B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRS--CSx-800080?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/bcftools-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/vcftools-4B0082?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/bedtools-008080?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SAMtools-191970?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🔹 Causal Inference & Applied Statistics
+<p>
+  <img src="https://img.shields.io/badge/EconML-00457C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CausalForestDML-228B22?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DoWhy-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRF-R-blue?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 ### 🔹 Development Environment
